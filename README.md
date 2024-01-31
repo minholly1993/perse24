@@ -38,7 +38,7 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - TAN YAN CONG KAYVEN
 - TAY JARETH
 - YE XINCHENG
-- BU PING JIN
+- BU PING JIN https://github.com/minholly1993/perse24
 - CHUA NIAN HENG JOHNATHAN
 - CHUA WEI JIE THURSTON
 - GOY SZE LENG ELIZA
